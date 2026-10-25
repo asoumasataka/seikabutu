@@ -1,0 +1,2 @@
+bankName,bankChildName,accountKouzaId,companyName,customerId,bankId_send,accountKouzaId_send,bankId_receive,accountKouzaId_receive,amount,commission,transactionDay
+三菱,東京支店,1234,法人,1234,1234,1234,9999,9999,500,0,20261024
